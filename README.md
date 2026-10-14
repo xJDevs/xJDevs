@@ -78,7 +78,7 @@ export of a real client project.
 | 3. Implementation | Gemini Flash |
 | 4. Review | Claude Sonnet agent |
 | 5. Adversarial review | OpenAI Codex |
-| 6. Tests and evals | |
+| 6. Tests and evals | Automated: Vitest, Playwright, eval sets |
 | 7. My approval | commit and push |
 
 - **Start from the business problem.** I've lived these workflows, so I start with the people who own
